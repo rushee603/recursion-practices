@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e42a356-e228-426e-b41b-d261f61858c5" name="Changes" comment="Project created">
+    <list default="true" id="6e42a356-e228-426e-b41b-d261f61858c5" name="Changes" comment="simple factorial logic for example">
+      <change afterPath="$PROJECT_DIR$/src/Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,11 +93,20 @@
       <option name="project" value="LOCAL" />
       <updated>1751990458652</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="simple factorial logic for example">
+      <option name="closed" value="true" />
+      <created>1751991046629</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1751991046629</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project created" />
+    <MESSAGE value="simple factorial logic for example" />
+    <option name="LAST_COMMIT_MESSAGE" value="simple factorial logic for example" />
   </component>
 </project>
